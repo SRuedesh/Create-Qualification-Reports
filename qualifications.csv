@@ -1,10 +1,10 @@
 Execute,Repository name,Released version,Workflow name,Folder name
 FALSE,Qualification-DDI-CYP1A2,2.0,,DDI_Qualification_CYP1A2
 FALSE,DDGI-CYP2D6,qualification-cyp2d6-split,,CYP2D6
-TRUE,DDGI-CYP2D6,qualification-cyp2d6-batch-quinidine,,CYP2D6_batch_quinidine
-TRUE,DDGI-CYP2D6,qualification-cyp2d6-batch-paroxetine,,CYP2D6_batch_paroxetine
-TRUE,DDGI-CYP2D6,qualification-cyp2d6-batch-metoprolol-risperidone,,CYP2D6_batch_metoprolol_risperidone
-TRUE,DDGI-CYP2D6,qualification-cyp2d6-batch-rest,,CYP2D6_batch_rest
+TRUE,DDGI-CYP2D6,qualification-cyp2d6-batch-quinidine,,Q
+TRUE,DDGI-CYP2D6,qualification-cyp2d6-batch-paroxetine,,P
+TRUE,DDGI-CYP2D6,qualification-cyp2d6-batch-metoprolol-risperidone,,M
+TRUE,DDGI-CYP2D6,qualification-cyp2d6-batch-rest,,R
 FALSE,Qualification-DDI-CYP2C19,2.0,,DDI_Qualification_CYP2C19
 FALSE,Qualification-DDI-CYP3A4,2.0,,DDI_Qualification_CYP3A4
 FALSE,Qualification-DDI-P-gp,1.1,,DDI_Qualification_P-gp
