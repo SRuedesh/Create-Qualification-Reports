@@ -1,6 +1,6 @@
 Execute,Repository name,Released version,Workflow name,Folder name
 FALSE,Qualification-DDI-CYP1A2,2.0,,DDI_Qualification_CYP1A2
-TRUE,DDGI-CYP2D6,qualification-cyp2d6-split,,DDGI_Qualification_CYP2D6
+TRUE,DDGI-CYP2D6,qualification-cyp2d6-split,,CYP2D6
 FALSE,Qualification-DDI-CYP2C19,2.0,,DDI_Qualification_CYP2C19
 FALSE,Qualification-DDI-CYP3A4,2.0,,DDI_Qualification_CYP3A4
 FALSE,Qualification-DDI-P-gp,1.1,,DDI_Qualification_P-gp
