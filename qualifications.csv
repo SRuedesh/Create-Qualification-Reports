@@ -1,6 +1,6 @@
 Execute,Repository name,Released version,Workflow name,Folder name
 FALSE,Qualification-DDI-CYP1A2,2.0,,DDI_Qualification_CYP1A2
-TRUE,DDGI-CYP2D6,qualification-cyp2d6-split,,CYP2D6
+TRUE,../SRuedesh/DDGI-CYP2D6,qualification-cyp2d6-split,,CYP2D6
 FALSE,DDGI-CYP2D6,qualification-cyp2d6-batch-quinidine,,Q
 FALSE,DDGI-CYP2D6,qualification-cyp2d6-batch-paroxetine,,P
 FALSE,DDGI-CYP2D6,qualification-cyp2d6-batch-metoprolol-risperidone,,M
