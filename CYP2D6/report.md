@@ -108,15 +108,15 @@ To demonstrate the level of confidence, the predictive performance is assessed u
 
 The respective *qualification plan* to produce this *qualification report* is transparently documented and provided open-source (https://github.com/Open-Systems-Pharmacology/DDGI-CYP2D6). The same applies for all presented PBPK models including *evaluation reports* on model building and evaluation of each model (https://github.com/Open-Systems-Pharmacology/OSP-PBPK-Model-Library).
 
-*Evaluation reports* including descriptions on model building and detailed evaluations of the included models are documented separately (see [Section 1.2](#12-cyp2d6-ddgi-network)).
+*Evaluation reports* including descriptions on model building and detailed evaluations of the included models are documented separately (see [Section 4.1](#ddgi-network-evaluations)).
 
-Please refer to the [Appendix](#5-appendix) to learn more details:
+Please refer to the [Appendix](#appendix) to learn more details:
 
-- An overview over the Open Systems Pharmacology (OSP) Suite is given in chapter [Section 5.1](#51-open-systems-pharmacology-suite-osps-introduction)
+- An overview over the Open Systems Pharmacology (OSP) Suite is given in chapter [Section 7.1](#osp-introduction)
 
-- [Section 5.2](#52-mathematical-implementation-of-drug-drug-interactions) shows the implementation of the underlying mathematical equations for DDIs in the OSP suite.
+- [Section 7.2](#mathematical-implementation-of-ddi) shows the implementation of the underlying mathematical equations for DDIs in the OSP suite.
 
-- A detailed general description of the performed qualification workflow (*qualification plan*, *qualification report*, etc.) can be found in chapter [Section 5.3](#53-automatic-re-qualification-workflow).
+- A detailed general description of the performed qualification workflow (*qualification plan*, *qualification report*, etc.) can be found in chapter [Section 7.3](#automatic-requalification-workflow).
 
 # 2 DDI Evaluations<a id="ddi-evaluations"></a>
 
@@ -2487,4 +2487,3 @@ Before publication, the final report should be regenerated from a clean environm
 | SME     | (S)-metoprolol                                                  |
 | t.i.d.  | three times daily                                               |
 | VER     | verapamil                                                       |
-
