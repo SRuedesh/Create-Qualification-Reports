@@ -295,7 +295,7 @@ The following victim and/or perpetrator PBPK models were applied:
 - **Alprazolam**
   Model snapshot: https://github.com/Open-Systems-Pharmacology/Alprazolam-Model/blob/master/Alprazolam-Model.json
 - **Atomoxetine**
-  Model snapshot: https://github.com/Open-Systems-Pharmacology/Atomoxetine-Model/blob/main/atomoxetine-model.json 
+  Model snapshot: https://github.com/SRuedesh/Atomoxetine-Model/blob/qualification-cyp2d6-split/Atomoxetine-model.json
 - **Bupropion**
   Model snapshot: https://github.com/Open-Systems-Pharmacology/Bupropion-Model/blob/main/Bupropion-Model.json 
 - **Carbamazepine**
@@ -309,9 +309,9 @@ The following victim and/or perpetrator PBPK models were applied:
 - **Desipramine** 
   Model snapshot: https://github.com/Open-Systems-Pharmacology/Desipramine-Model/blob/main/Desipramine-Model.json
 - **Dextromethorphan** 
-  Model snapshot: https://github.com/Open-Systems-Pharmacology/Dextromethorphan-Model/blob/main/dextromethorphan_aggregated_simulations.json
+  Model snapshot: https://github.com/SRuedesh/Dextromethorphan-Model/blob/main/dextromethorphan_aggregated_simulations.json
 - **Digoxin** 
-  Model snapshot: https://github.com/Open-Systems-Pharmacology/Digoxin-Model/blob/master/Digoxin.json
+  Model snapshot: https://github.com/Open-Systems-Pharmacology/Digoxin-Model/blob/master/Digoxin-Model.json
 - **Erythromycin** 
   Model snapshot: https://github.com/Open-Systems-Pharmacology/Erythromycin-Model/blob/master/Erythromycin-Model.json
 - **Fluvoxamine**
@@ -333,7 +333,7 @@ The following victim and/or perpetrator PBPK models were applied:
 - **Rifampicin**
   Model snapshot: https://github.com/Open-Systems-Pharmacology/Rifampicin-Model/blob/master/Rifampicin-Model.json
 - **Risperidone**
-  Model snapshot: https://github.com/Open-Systems-Pharmacology/Risperidone-Model/blob/main/risperidone-model.json
+  Model snapshot: https://github.com/SRuedesh/Risperidone-Model/blob/qualification-cyp2d6-split/Risperidone-model.json
 - **Verapamil**
   Model snapshot: https://github.com/Open-Systems-Pharmacology/Verapamil-Model/blob/master/Verapamil-Model.json
 
@@ -1530,7 +1530,7 @@ The following victim and/or perpetrator PBPK models were applied:
 - **Alprazolam**
   Model snapshot: https://github.com/Open-Systems-Pharmacology/Alprazolam-Model/blob/master/Alprazolam-Model.json
 - **Atomoxetine**
-  Model snapshot: https://github.com/Open-Systems-Pharmacology/Atomoxetine-Model/blob/main/atomoxetine-model.json 
+  Model snapshot: https://github.com/SRuedesh/Atomoxetine-Model/blob/qualification-cyp2d6-split/Atomoxetine-model.json
 - **Bupropion**
   Model snapshot: https://github.com/Open-Systems-Pharmacology/Bupropion-Model/blob/main/Bupropion-Model.json 
 - **Carbamazepine**
@@ -1544,9 +1544,9 @@ The following victim and/or perpetrator PBPK models were applied:
 - **Desipramine** 
   Model snapshot: https://github.com/Open-Systems-Pharmacology/Desipramine-Model/blob/main/Desipramine-Model.json
 - **Dextromethorphan** 
-  Model snapshot: https://github.com/Open-Systems-Pharmacology/Dextromethorphan-Model/blob/main/dextromethorphan_aggregated_simulations.json
+  Model snapshot: https://github.com/SRuedesh/Dextromethorphan-Model/blob/main/dextromethorphan_aggregated_simulations.json
 - **Digoxin** 
-  Model snapshot: https://github.com/Open-Systems-Pharmacology/Digoxin-Model/blob/master/Digoxin.json
+  Model snapshot: https://github.com/Open-Systems-Pharmacology/Digoxin-Model/blob/master/Digoxin-Model.json
 - **Erythromycin** 
   Model snapshot: https://github.com/Open-Systems-Pharmacology/Erythromycin-Model/blob/master/Erythromycin-Model.json
 - **Fluvoxamine**
@@ -1568,7 +1568,7 @@ The following victim and/or perpetrator PBPK models were applied:
 - **Rifampicin**
   Model snapshot: https://github.com/Open-Systems-Pharmacology/Rifampicin-Model/blob/master/Rifampicin-Model.json
 - **Risperidone**
-  Model snapshot: https://github.com/Open-Systems-Pharmacology/Risperidone-Model/blob/main/risperidone-model.json
+  Model snapshot: https://github.com/SRuedesh/Risperidone-Model/blob/qualification-cyp2d6-split/Risperidone-model.json
 - **Verapamil**
   Model snapshot: https://github.com/Open-Systems-Pharmacology/Verapamil-Model/blob/master/Verapamil-Model.json
 
