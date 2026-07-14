@@ -75,6 +75,10 @@ jobs:
     runs-on: windows-2022
     
     steps:
+    - name: Enable long paths
+      run: git config --global core.longpaths true
+      shell: pwsh
+
     - name: Checkout repository
       uses: actions/checkout@v6
       
