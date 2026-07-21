@@ -7,6 +7,7 @@ TRUE,../SRuedesh/Quinidine-Model,evaluation,Quinidine-Model,Quinidine,,
 TRUE,../SRuedesh/Clomiphene-Model,evaluation,Clomiphene-Model,Clomiphene,,
 TRUE,../SRuedesh/Ketoconazole-Model,evaluation,Ketoconazole-Model,Ketoconazole,,
 TRUE,../SRuedesh/Paroxetine-Model,main,Paroxetine-Model,Paroxetine,,
+TRUE,../SRuedesh/Metoprolol-Model,evaluation2,Metoprolol-Model,Metoprolol,,
 FALSE,Alfentanil-Model,3.0,Alfentanil-Model,Alfentanil,,Alfentanil-Pediatrics/v2.0/Alfentanil-Pediatrics.json
 FALSE,Alprazolam-Model,2.0,Alprazolam-Model,Alprazolam,,
 FALSE,Amikacin-Model,2.0,Amikacin-Model,Amikacin,,Amikacin-Pediatrics/v1.0/Amikacin-Pediatrics.json
