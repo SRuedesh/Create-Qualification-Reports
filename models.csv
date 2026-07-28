@@ -1,12 +1,12 @@
 Execute,Repository name,Released version,Snapshot name,Folder name,Workflow name,Additional projects
 FALSE,7E3-Model,1.0,7E3,7E3,,
-FALSE,../SRuedesh/Atomoxetine-Model,evaluation,Atomoxetine-model,Atomoxetine,,
+TRUE,../SRuedesh/Atomoxetine-Model,evaluation,Atomoxetine-model,Atomoxetine,,
 FALSE,../SRuedesh/Risperidone-Model,evaluation,Risperidone-model,Risperidone,,
 FALSE,../SRuedesh/Desipramine-Model,evaluation-fork-fix,Desipramine-Model,Desipramine,,
 FALSE,../SRuedesh/Dextromethorphan-Model,evaluation,Dextromethorphan-model,Dextromethorphan,,
-TRUE,../SRuedesh/Quinidine-Model,evaluation,Quinidine-Model,Quinidine,,
+FALSE,../SRuedesh/Quinidine-Model,evaluation,Quinidine-Model,Quinidine,,
 FALSE,../SRuedesh/Clomiphene-Model,evaluation,Clomiphene-Model,Clomiphene,,
-TRUE,../SRuedesh/Ketoconazole-Model,evaluation,Ketoconazole-Model,Ketoconazole,,
+FALSE,../SRuedesh/Ketoconazole-Model,evaluation,Ketoconazole-Model,Ketoconazole,,
 FALSE,../SRuedesh/Paroxetine-Model,evaluation,Paroxetine-Model,Paroxetine,,
 FALSE,../SRuedesh/Metoprolol-Model,evaluation2,Metoprolol-Model,Metoprolol,,
 FALSE,Alfentanil-Model,3.0,Alfentanil-Model,Alfentanil,,Alfentanil-Pediatrics/v2.0/Alfentanil-Pediatrics.json
